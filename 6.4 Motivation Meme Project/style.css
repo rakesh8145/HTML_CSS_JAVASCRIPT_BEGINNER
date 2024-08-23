@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(121, 121, 121);
+}
+.poster{
+width: 50%;
+margin-left:  25% ;
+margin-top: 50%;
+text-align: center;
+color: rgb(178, 196, 211);
+}
+h1{
+font-size: 3rem;
+}
+.motivation-img{
+    border:5px solid white;
+    width: 100%;
+}

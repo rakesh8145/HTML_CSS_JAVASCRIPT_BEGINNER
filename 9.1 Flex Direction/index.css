@@ -1,0 +1,9 @@
+@media(max-width :600px){
+    .container{ color: white;
+        border: 5px solid gold;
+        display: inline-flex;
+        flex-direction: row;
+        flex-basis: 100px;
+
+    }
+}
